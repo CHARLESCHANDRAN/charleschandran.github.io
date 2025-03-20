@@ -3,8 +3,10 @@
 		"relation": ["delegate_permission/common.handle_all_urls"],
 		"target": {
 			"namespace": "android_app",
-			"package_name": "com.yourapp",
-			"sha256_cert_fingerprints": ["YOUR_SHA256_CERTIFICATE_FINGERPRINT"]
+			"package_name": "com.instantappdemo",
+			"sha256_cert_fingerprints": [
+				"B8:99:5D:45:62:06:45:ED:6B:F5:80:EF:8C:EC:EB:D4:F2:C6:96:27:B0:2D:38:AF:F3:4F:D8:69:BA:17:70:BB"
+			]
 		}
 	}
 ]
